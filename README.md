@@ -1,5 +1,5 @@
 # THU-Template
-Tsinghua University Presentation Template, `*.pptx`, $\LaTeX$ .
+Tsinghua University Presentation Template, `*.pptx`, `*.tex` .
 
 ## Preview
 ### `*.pptx`
@@ -41,6 +41,6 @@ Tsinghua University Presentation Template, `*.pptx`, $\LaTeX$ .
 - `Complex_4.pptx`
     ![](https://aimerlover.cn/storage/img/Complex_4.png)
 
-### $\LaTeX$
+### `*.tex`
 
 ####
