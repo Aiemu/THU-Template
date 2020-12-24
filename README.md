@@ -1,6 +1,9 @@
 # THU-Template
 Tsinghua University Presentation Template, `*.pptx`, `*.tex` .
 
+## THU Cloud Link
+[https://cloud.tsinghua.edu.cn/d/c51cad9ead8540ae9408/](https://cloud.tsinghua.edu.cn/d/c51cad9ead8540ae9408/)
+
 ## Preview
 ### `*.pptx`
 #### Simple Template
