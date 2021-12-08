@@ -1,46 +1,6 @@
 # THU-Template
-Tsinghua University Presentation Template, `*.pptx`, $\LaTeX$ .
+清华大学 Slides 模版，包含 `*.pptx` 和 $\LaTeX$
 
-## Preview
-### `*.pptx`
-#### Simple Template
-- `Simple_1.pptx`
-    ![](https://aimerlover.cn/storage/img/Simple_1.png)
-
-- `Simple_2.pptx`
-    ![](https://aimerlover.cn/storage/img/Simple_2.png)
-
-- `Simple_3.pptx`
-    ![](https://aimerlover.cn/storage/img/Simple_3.png)
-
-- `Simple_4.pptx`
-    ![](https://aimerlover.cn/storage/img/Simple_4.png)
-
-- `Simple_5.pptx`
-    ![](https://aimerlover.cn/storage/img/Simple_5.png)
-
-- `Simple_6.pptx`
-    ![](https://aimerlover.cn/storage/img/Simple_6.png)
-
-- `Simple_7.pptx`
-    ![](https://aimerlover.cn/storage/img/Simple_7.png)
-
-- `Simple_8.pptx`
-    ![](https://aimerlover.cn/storage/img/Simple_8.png)
-
-#### Complex Template
-- `Complex_1.pptx`
-    ![](https://aimerlover.cn/storage/img/Complex_1.png)
-
-- `Complex_2.pptx`
-    ![](https://aimerlover.cn/storage/img/Complex_2.png)
-
-- `Complex_3.pptx`
-    ![](https://aimerlover.cn/storage/img/Complex_3.png)
-
-- `Complex_4.pptx`
-    ![](https://aimerlover.cn/storage/img/Complex_4.png)
-
-### $\LaTeX$
-
-####
+## 打包下载
+- [清华云盘](https://cloud.tsinghua.edu.cn/f/5fb3b5f817064a969bfa/?dl=1)
+- [百度云盘](https://pan.baidu.com/s/1rFLTCkS7kVgYpFlQ9NZOFQ)，密码：`1kaf`
