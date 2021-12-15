@@ -1,5 +1,5 @@
 # THU-Template
-清华大学 Slides 模版，包含 `*.pptx` 和 $\LaTeX$
+清华大学 Slides 模版
 
 ## 打包下载
 - [清华云盘](https://cloud.tsinghua.edu.cn/f/5fb3b5f817064a969bfa/?dl=1)
